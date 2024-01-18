@@ -1,0 +1,35 @@
+﻿  AI.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  chess.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+D:\VS.my_C++_learning\chess\chess.cpp(66,56): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\VS.my_C++_learning\chess\chess.cpp(66,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\VS.my_C++_learning\chess\chess.cpp(67,56): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\VS.my_C++_learning\chess\chess.cpp(67,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\VS.my_C++_learning\chess\chess.cpp(81,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\VS.my_C++_learning\chess\chess.cpp(82,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\VS.my_C++_learning\chess\chess.cpp(125,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\VS.my_C++_learning\chess\chess.cpp(126,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\VS.my_C++_learning\chess\chess.cpp(127,18): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\VS.my_C++_learning\chess\chess.cpp(128,18): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\VS.my_C++_learning\chess\chess.cpp(130,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\VS.my_C++_learning\chess\chess.cpp(133,12): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\VS.my_C++_learning\chess\chess.cpp(143,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\VS.my_C++_learning\chess\chess.cpp(145,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\VS.my_C++_learning\chess\chess.cpp(156,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\VS.my_C++_learning\chess\chess.cpp(157,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\VS.my_C++_learning\chess\chess.cpp(167,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\VS.my_C++_learning\chess\chess.cpp(168,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\VS.my_C++_learning\chess\chess.cpp(169,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  gameControl.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+D:\VS.my_C++_learning\chess\main.cpp(7,31): warning C4305: “参数”: 从“double”到“float”截断
+  Man.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 206 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  chess.vcxproj -> D:\VS.my_C++_learning\chess\x64\Release\chess.exe
